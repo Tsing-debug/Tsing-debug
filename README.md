@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tsing-debug
-- 👀 I’m interested in collaborative data science for healthcare
+- 👋 Hi, I’m @Tsing-debug, who major in data scinece and also equipped with bachelor degree of art of finance.
+- 👀 I’m interested in collaborative data science for healthcare field.
 - 🌱 I’m currently learning programming and algorithm
   
 
